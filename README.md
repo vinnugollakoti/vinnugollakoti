@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinnugollakoti
 - 👀 I’m interested in front end web developement 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web developement
 - 📫 How to reach me at linkedin @vinay reddy at instagram @vinnugollakoti1
 
