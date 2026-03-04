@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Reddy</h1>
-<h3 align="center">Sui DeFi Engineer | Blockchain & Protocol Developer</h3>
+<h3 align="center">Full Stack Developer | Blockchain & Protocol Developer</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=vinnugollakoti&label=Profile%20views&color=0e75b6&style=flat" alt="vinnugollakoti" />
