@@ -76,6 +76,7 @@ Seeking opportunities to deepen **protocol-level expertise** and contribute to *
 ## Databases
 - MongoDB
 - MySQL
+- PostgreSQL
 
 ## Blockchain / Web3
 - Sui Move Smart Contracts
