@@ -25,7 +25,7 @@ I focus on **protocol-level development**, **DeFi infrastructure**, and **on-cha
 - 📊 Experience indexing **Sui & Binance blockchain data**
 - 🧠 Running and analyzing **Hyperliquid nodes and perpetual markets**
 - 💬 Ask me about **Move, Sui DeFi, Smart Contracts, Web3 Infrastructure**
-- 📫 Reach me at **vinnu.work@gmail.com**
+- 📫 Reach me at **vinnugollakoti289@gmail.com**
 
 ---
 
