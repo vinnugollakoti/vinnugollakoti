@@ -178,19 +178,21 @@ https://www.npmjs.com/package/gpushx
 # 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://x.com/VinnuGollakoti" target="blank" style="margin-right: 15px;">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+<a href="https://x.com/VinnuGollakoti" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
 </a>
 
-<a href="https://linkedin.com" target="blank" style="margin-right: 15px;">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="https://www.leetcode.com/vinnugollakoti1" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
+&nbsp;&nbsp;&nbsp;
 
+<a href="https://www.leetcode.com/vinnugollakoti1" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+</a>
 </p>
 
 ---
