@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Reddy</h1>
-<h3 align="center">Full Stack Developer | Blockchain & Protocol Developer</h3>
+<h3 align="center">Associate AI Engineer | Full Stack & AI Developer | Web3 Builder</h3>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=vinnugollakoti&label=Profile%20views&color=0e75b6&style=flat" alt="vinnugollakoti" />
@@ -13,51 +13,126 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Sui **DeFi Engineer** with hands-on experience building **DEX protocols and smart contracts on the Sui blockchain**.
+Passionate developer focused on building **AI products, developer tools, and scalable Web3 infrastructure**.
 
-I focus on **protocol-level development**, **DeFi infrastructure**, and **on-chain data systems**.
+Currently working as an **Associate AI Engineer Apprentice at Lowe’s India**, while actively building AI-focused npm packages and developer tooling.
 
-- 🔭 Building **DeFi protocols on Sui**
-- ⚡ Experienced in **AMM, CLMM, DLMM DEX architecture**
-- 🔗 Worked with **Ethereum, Sui, and cross-chain infrastructure**
-- 📊 Experience indexing **Sui & Binance blockchain data**
-- 🧠 Running and analyzing **Hyperliquid nodes and perpetual markets**
-- 💬 Ask me about **Move, Sui DeFi, Smart Contracts, Web3 Infrastructure**
-- 📫 Reach me at **vinnugollakoti289@gmail.com**
+Previously worked deeply in **Sui DeFi ecosystems**, protocol-level smart contracts, AMM/CLMM architectures, and blockchain infrastructure.
 
----
-
-## 💼 Experience
-
-**DeFi Developer Intern — 2RK Capital**
-
-- Built and analyzed DeFi infrastructure on the **Sui blockchain**
-- Developed smart contracts and protocol logic
-- Worked with blockchain data indexing and large-scale datasets
-- Contributed to cross-chain infrastructure including **Sui Bridge integrations**
+Now strongly focused on:
+- 🤖 AI Engineering
+- 🧠 AI Assistants
+- ⚡ Agentic Coding
+- 🛠️ Developer Tools
+- 🌐 Scalable Full Stack Systems
 
 ---
 
-## 🧠 Personal Statement
+# 🚀 Current Work
 
-Sui DeFi Engineer with hands-on experience building **AMM, CLMM, and DLMM DEX contracts** and other protocol-level smart contracts on the **Sui blockchain**.
+- 🔭 Building AI products and developer tooling
+- 🤖 Working on **Lioric AI Assistant**
+- 📦 Publishing npm packages
+- 🧠 Learning AI fundamentals deeply
+- ⚡ Exploring Agentic Coding with Codex
+- 🌐 Building scalable AI-powered applications
 
-Strong backend and data engineering skills with experience **indexing Sui and Binance data**, working with **Ethereum and Hyperliquid perpetuals**, running **Hyperliquid nodes**, collecting **large-scale datasets**, and contributing to **cross-chain infrastructure such as the Sui Bridge**.
+---
 
-Seeking opportunities to deepen **protocol-level expertise** and contribute to **scalable Web3 systems**.
+# 🧩 Featured Projects
+
+## 🤖 Lioric AI Assistant
+
+A modular AI assistant framework where developers can build chatbots using just a simple React component.
+
+### Features
+- Plug-and-play AI assistant
+- React-based integration
+- Modular architecture
+- Easy chatbot deployment
+- Developer-friendly APIs
+
+📦 npm Package:  
+https://www.npmjs.com/package/lioric-react
+
+🌐 Project Focus:
+Building customizable AI assistants for developers with minimal setup.
+
+---
+
+## ⚡ GPUSHX
+
+A modern npm utility package focused on improving developer workflow and tooling experience.
+
+📦 npm Package:  
+https://www.npmjs.com/package/gpushx
+
+---
+
+# 💼 Experience
+
+## Associate AI Engineer Apprentice — Lowe’s India
+
+- Working on AI engineering concepts and practical implementations
+- Learning and applying AI fundamentals
+- Exploring scalable AI systems and integrations
+- Working with modern development workflows and tooling
+
+---
+
+## DeFi Developer Intern — 2RK Capital
+
+- Built and analyzed DeFi infrastructure on the Sui blockchain
+- Developed protocol-level smart contracts
+- Worked on blockchain data indexing systems
+- Contributed to cross-chain infrastructure and integrations
+
+---
+
+# 🧠 Personal Statement
+
+Developer passionate about building impactful systems across both **AI and Web3**.
+
+Previously focused on:
+- Sui DeFi protocols
+- AMM / CLMM / DLMM architectures
+- Smart contract systems
+- Blockchain indexing infrastructure
+
+Currently transitioning strongly into:
+- AI engineering
+- AI assistants
+- Agentic workflows
+- Developer productivity tooling
+- Full-stack AI systems
+
+I enjoy building products that simplify developer experience and make advanced technologies more accessible.
 
 ---
 
 # 🛠️ Tech Stack
 
 ## Languages
-- Move (Intermediate)
-- Python (Advanced)
-- JavaScript (Intermediate)
-- Rust (Basic)
-- C++ (Basic)
+- Python
+- JavaScript
+- TypeScript
+- Move
+- Rust
+- C++
+
+---
+
+## AI / ML
+- AI Fundamentals
+- LLM Integrations
+- AI Assistants
+- Prompt Engineering
+- Agentic AI Workflows
+- Codex Tooling
+
+---
 
 ## Frontend
 - React JS
@@ -65,50 +140,81 @@ Seeking opportunities to deepen **protocol-level expertise** and contribute to *
 - HTML
 - CSS
 - Tailwind CSS
-- JavaScript
+- Next.js
+
+---
 
 ## Backend
 - Node.js
 - Express.js
 - MongoDB
+- PostgreSQL
+- MySQL
 - AWS
 
-## Databases
-- MongoDB
-- MySQL
-- PostgreSQL
+---
 
 ## Blockchain / Web3
 - Sui Move Smart Contracts
 - Solidity Smart Contracts
-- Web3 Development
 - Sui DeFi Protocols
 - Ethereum Blockchain
+- Web3 Development
 - Pysui
 
+---
+
 ## Tools & Frameworks
+- Git & GitHub
+- Linux
 - Hardhat
 - Truffle
 - Ganache
-- Web3.js
-- Git / GitHub
-- Linux
+- Docker
+- VS Code
+- npm Ecosystem
+
+---
+
+# 🌐 Portfolio
+
+🌍 Portfolio Website:  
+https://vinnugollakoti.vercel.app/
+
+---
+
+# 📦 npm Packages
+
+## Lioric React
+https://www.npmjs.com/package/lioric-react
+
+## GPUSHX
+https://www.npmjs.com/package/gpushx
+
+---
+
+# 📈 Current Interests
+
+- AI Engineering
+- AI Assistants
+- Agentic Coding
+- LLM Applications
+- Developer Tooling
+- System Design
+- AI + Web3 Integrations
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/@vinnugollakoti" target="blank">
+
+<a href="https://x.com/VinnuGollakoti" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
 </a>
 
-<a href="https://linkedin.com/in/vinay reddy" target="blank">
+<a href="https://linkedin.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-
-<a href="https://fb.com/vinnugollakoti" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
 </a>
 
 <a href="https://instagram.com/vinnugollakoti1" target="blank">
@@ -118,7 +224,15 @@ Seeking opportunities to deepen **protocol-level expertise** and contribute to *
 <a href="https://www.leetcode.com/vinnugollakoti1" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
 </a>
+
 </p>
+
+---
+
+# 📫 Contact
+
+- 📧 Email: vinnugollakoti289@gmail.com
+- 📱 Phone: +91 6301181244
 
 ---
 
@@ -135,3 +249,16 @@ Seeking opportunities to deepen **protocol-level expertise** and contribute to *
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinnugollakoti" />
 </p>
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building things at the intersection of:
+- AI
+- Developer Experience
+- Web3 Infrastructure
+- Automation
+- Scalable Systems
+
+Always learning. Always building 🚀
