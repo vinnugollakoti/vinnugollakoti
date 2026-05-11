@@ -41,15 +41,6 @@ Now strongly focused on:
 
 ---
 
-## ⚡ GPUSHX
-
-A modern npm utility package focused on improving developer workflow and tooling experience.
-
-📦 npm Package:  
-https://www.npmjs.com/package/gpushx
-
----
-
 # 💼 Experience
 
 ## Associate AI Engineer Apprentice — Lowe’s India
