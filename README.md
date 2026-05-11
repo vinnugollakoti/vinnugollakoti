@@ -179,15 +179,13 @@ https://www.npmjs.com/package/gpushx
 
 <p align="left">
 
-<a href="https://x.com/VinnuGollakoti" target="blank">
+<a href="https://x.com/VinnuGollakoti" target="blank" style="margin-right: 15px;">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
 </a>
 
-<a href="https://linkedin.com" target="blank">
+<a href="https://linkedin.com" target="blank" style="margin-right: 15px;">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-
-<br/>
 
 <a href="https://www.leetcode.com/vinnugollakoti1" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
