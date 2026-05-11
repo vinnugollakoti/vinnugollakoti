@@ -41,27 +41,6 @@ Now strongly focused on:
 
 ---
 
-# 🧩 Featured Projects
-
-## 🤖 Lioric AI Assistant
-
-A modular AI assistant framework where developers can build chatbots using just a simple React component.
-
-### Features
-- Plug-and-play AI assistant
-- React-based integration
-- Modular architecture
-- Easy chatbot deployment
-- Developer-friendly APIs
-
-📦 npm Package:  
-https://www.npmjs.com/package/lioric-react
-
-🌐 Project Focus:
-Building customizable AI assistants for developers with minimal setup.
-
----
-
 ## ⚡ GPUSHX
 
 A modern npm utility package focused on improving developer workflow and tooling experience.
