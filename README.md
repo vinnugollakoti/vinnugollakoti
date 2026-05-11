@@ -177,7 +177,7 @@ https://www.npmjs.com/package/gpushx
 
 # 🌐 Connect With Me
 
-<p align="left">
+
 <a href="https://x.com/VinnuGollakoti" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
 </a>
@@ -193,7 +193,6 @@ https://www.npmjs.com/package/gpushx
 <a href="https://www.leetcode.com/vinnugollakoti1" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
 </a>
-</p>
 
 ---
 
